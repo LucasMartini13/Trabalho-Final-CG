@@ -1,2 +1,2 @@
 # Trabalho-Final-CG
-Desenvolvimento de jogo VR
+Desenvolvimento de jogo VR utilizando Unity
